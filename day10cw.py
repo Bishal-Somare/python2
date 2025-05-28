@@ -49,9 +49,9 @@ s = {
     'age': 9
 }
 print(s)
-print(a.keys())
-print(a.values())
-print(a.items())
+print(s.keys())
+print(s.values())
+print(s.items())
 
 #make a dictionaary that takes
 #student marks in diffrent

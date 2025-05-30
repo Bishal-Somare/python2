@@ -73,6 +73,6 @@ print(a)
 #data from user
 #input() - inbuilt function
 #asking data from user
-hii=int(input("Enter your number: "))
+hii=int(input("Enter your number: ")) 
 print(hii)
 print(type(hii))

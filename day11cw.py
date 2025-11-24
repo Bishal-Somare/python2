@@ -2,6 +2,7 @@
 #i)bytes - memory management
 #ii)bytearray
 "heelo world"
+"heelo world 2"
 #bytes = it generates sequence of number, range(0,256)start & end value
 # immutable(orginal data not changeable)
 a = bytes([1,2,3,4,5,6,7,8,9,10,255])
